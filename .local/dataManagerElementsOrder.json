@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FileExtension&Sequence_3",
+        "b_FolderExist&Sequence_4",
+        "substring_file&Sequence_4",
+        "FileName&Sequence_3",
+        "temp_FileName&Sequence_3",
+        "temp_File&Sequence_3",
+        "pTest&Sequence_2",
+        "FileList&Sequence_2",
+        "FilePath&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
