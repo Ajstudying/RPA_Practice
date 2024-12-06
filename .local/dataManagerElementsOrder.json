@@ -9,18 +9,41 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "Main.xaml",
+      "Path": "FolderCreateAndMoveFile.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "FileExtension&Sequence_3",
-        "b_FolderExist&Sequence_4",
-        "substring_file&Sequence_4",
-        "FileName&Sequence_3",
-        "temp_FileName&Sequence_3",
-        "temp_File&Sequence_3",
-        "pTest&Sequence_2",
+        "FilePath&Sequence_2",
         "FileList&Sequence_2",
-        "FilePath&Sequence_2"
+        "pTest&Sequence_2",
+        "temp_File&Sequence_3",
+        "temp_FileName&Sequence_3",
+        "FileName&Sequence_3",
+        "FileExtension&Sequence_3",
+        "substring_file&Sequence_4",
+        "b_FolderExist&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "String_Practice.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "print_out_string&Sequence_2",
+        "temp_message2&Sequence_2",
+        "temp_message1&Sequence_2",
+        "EmailAddress&Sequence_4",
+        "StringList&Sequence_2",
+        "initial_message&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],

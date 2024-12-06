@@ -1,8 +1,8 @@
 {
-  "name": "FolderCreateAndMoveFile",
+  "name": "RPA_Practice",
   "projectId": "3458274f-3866-4697-bb1b-2fe8ee671336",
   "description": "빈 프로세스",
-  "main": "Main.xaml",
+  "main": "String_Practice.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.3]",
     "UiPath.Mail.Activities": "[1.24.2]",
@@ -49,8 +49,20 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
+      "filePath": "FolderCreateAndMoveFile.xaml",
+      "uniqueId": "0bf8e8af-43d3-43a9-999b-c58c8b585bed",
+      "input": [],
+      "output": []
+    },
+    {
       "filePath": "Main.xaml",
-      "uniqueId": "0c61a0a8-fe2d-444a-8320-859cb465c404",
+      "uniqueId": "0eaeacbe-0374-4626-975a-2fdf99611803",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "String_Practice.xaml",
+      "uniqueId": "236dcb4d-7de2-452e-97fb-20a7c3bd6bb3",
       "input": [],
       "output": []
     }
